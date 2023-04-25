@@ -9,7 +9,7 @@ from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
 
 MD_HEAD = """## A Blog about my life
-谨以记录我的生活[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
+谨以致敬我的生活[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
 """
 
 BACKUP_DIR = "BACKUP"
