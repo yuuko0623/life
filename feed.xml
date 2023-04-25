@@ -1,2 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/yuuko0623/life</id><title>RSS feed of yuuko0623's life</title><updated>2023-04-25T16:41:21.266857+00:00</updated><author><name>yuuko0623</name><email>tixiangzhi@gmail.com</email></author><link href="https://github.com/yuuko0623/life"/><link href="https://raw.githubusercontent.com/yuuko0623/life/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/yuuko0623/life</id><title>RSS feed of yuuko0623's life</title><updated>2023-04-25T16:42:59.707511+00:00</updated><author><name>yuuko0623</name><email>tixiangzhi@gmail.com</email></author><link href="https://github.com/yuuko0623/life"/><link href="https://raw.githubusercontent.com/yuuko0623/life/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/yuuko0623/life/issues/6</id><title>友情链接</title><updated>2023-04-25T16:42:59.899751+00:00</updated><content type="html"><![CDATA[<p>这个 Issue 是友情链接的 Issue, 如果你想加到友情链接里，请在这条 Issue 上评论，我打心后会自动加到友情链接里。感谢大家。</p>
+<p>格式如下（请参考我下面的 comment）:
+冒号为中文冒号 ：</p>
+<p>名字：xxxxxx
+链接：xxxxxx
+描述：xxxxxx</p>
+]]></content><link href="https://github.com/yuuko0623/life/issues/6" rel="alternate"/><category term="Friends"/><published>2023-04-25T16:42:34+00:00</published></entry></feed>

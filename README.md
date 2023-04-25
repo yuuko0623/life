@@ -4,3 +4,4 @@
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [友情链接](https://github.com/yuuko0623/life/issues/6)--2023-04-25
