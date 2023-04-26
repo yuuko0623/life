@@ -1,5 +1,5 @@
-## A Blog about my life
-谨以致敬生活[RSS Feed](https://raw.githubusercontent.com/yuuko0623/life/master/feed.xml)
+## 价值投资 git blog
+用于记录日常的投资与分享投资感悟[RSS Feed](https://raw.githubusercontent.com/yuuko0623/life/master/feed.xml)
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
