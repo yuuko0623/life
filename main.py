@@ -9,7 +9,7 @@ from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
 
 MD_HEAD = """## 价值投资 git blog
-用于记录日常的投资与分享投资感悟[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
+记录日常的投资与分享投资感悟[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
 """
 
 BACKUP_DIR = "BACKUP"
