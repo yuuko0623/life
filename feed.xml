@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/yuuko0623/life</id><title>RSS feed of yuuko0623's life</title><updated>2023-04-26T10:28:22.375474+00:00</updated><author><name>yuuko0623</name><email>tixiangzhi@gmail.com</email></author><link href="https://github.com/yuuko0623/life"/><link href="https://raw.githubusercontent.com/yuuko0623/life/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/yuuko0623/life/issues/9</id><title>记一次错误的投资</title><updated>2023-04-26T10:28:22.649498+00:00</updated><content type="html"><![CDATA[<p>今天卖出了智飞生物，共亏损5个点。</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/yuuko0623/valueinvestment</id><title>RSS feed of yuuko0623's valueinvestment</title><updated>2023-04-26T10:31:08.476240+00:00</updated><author><name>yuuko0623</name><email>tixiangzhi@gmail.com</email></author><link href="https://github.com/yuuko0623/valueinvestment"/><link href="https://raw.githubusercontent.com/yuuko0623/valueinvestment/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/yuuko0623/valueinvestment/issues/10</id><title>测试</title><updated>2023-04-26T10:31:08.867244+00:00</updated><content type="html"><![CDATA[<p>测试</p>
+]]></content><link href="https://github.com/yuuko0623/valueinvestment/issues/10" rel="alternate"/><published>2023-04-26T10:30:33+00:00</published></entry><entry><id>https://github.com/yuuko0623/valueinvestment/issues/9</id><title>记一次错误的投资</title><updated>2023-04-26T10:31:09.052921+00:00</updated><content type="html"><![CDATA[<p>今天卖出了智飞生物，共亏损5个点。</p>
 <p>买入时并没有思考过多，只觉得估值很低，并且有看好的基金经理对智飞生物做了布局。</p>
 <p>但是做完看了下财务报表，公司业务是卖疫苗。其中90%的利润来源于HPV疫苗，并且是代理国外的产品。也就是说，实际上这个公司本质上是个代理公司。</p>
 <p>公司业务没有核心竞争力，并且其财务报表2022年现金流量奇差无比。23年1季度也增加了不少的短期借款，说明公司现金流紧张。
 还有不好的地方就是董事长本人是一直在减持的。</p>
 <p>我对其的判断是现在的价格也许有不错的赔率，也许公司未来会有估值的提升，但是这个财务状况我着实不太能接受。这个公司我可以给予小仓位，但是可惜的是我的主要持仓还是在基金，智飞生物1手就占了我10%的股票仓位。我比较认可分散，对于投资确定性一般的股票我属实不情愿给予太高的仓位，因此考虑再三还是卖出，从买入到卖出共亏损5个点，也就是500元人民币。</p>
 <p>整体投资比较失败。以后对于单手比较贵的股票还是要考察基本面后再买入，不能仅看相对PE、PB。</p>
-]]></content><link href="https://github.com/yuuko0623/life/issues/9" rel="alternate"/><category term="2023"/><published>2023-04-26T06:39:10+00:00</published></entry><entry><id>https://github.com/yuuko0623/life/issues/8</id><title>观察中的企业标的池</title><updated>2023-04-26T10:28:22.794936+00:00</updated><content type="html"><![CDATA[<p>更新于2023/4/26
+]]></content><link href="https://github.com/yuuko0623/valueinvestment/issues/9" rel="alternate"/><category term="2023"/><published>2023-04-26T06:39:10+00:00</published></entry><entry><id>https://github.com/yuuko0623/valueinvestment/issues/8</id><title>观察中的企业标的池</title><updated>2023-04-26T10:31:09.251984+00:00</updated><content type="html"><![CDATA[<p>更新于2023/4/26
 并非持仓，而是目前有在了解的企业。</p>
 <table>
 <thead>
@@ -212,15 +213,15 @@
 <td>川仪股份</td>
 <td align="left">中庚3鹏华4</td>
 </tr>
-</tbody></table>]]></content><link href="https://github.com/yuuko0623/life/issues/8" rel="alternate"/><category term="2023"/><category term="Top"/><published>2023-04-25T17:07:58+00:00</published></entry><entry><id>https://github.com/yuuko0623/life/issues/7</id><title>损益变化表</title><updated>2023-04-26T10:28:22.948984+00:00</updated><content type="html"><![CDATA[<p>从2023年4月起更新具体损益变化（近似）</p>
+</tbody></table>]]></content><link href="https://github.com/yuuko0623/valueinvestment/issues/8" rel="alternate"/><category term="2023"/><category term="Top"/><published>2023-04-25T17:07:58+00:00</published></entry><entry><id>https://github.com/yuuko0623/valueinvestment/issues/7</id><title>损益变化表</title><updated>2023-04-26T10:31:09.523428+00:00</updated><content type="html"><![CDATA[<p>从2023年4月起更新具体损益变化（近似）</p>
 <h2>损益</h2>
 <p><strong>总损益： -1.5%</strong>
 2021年1月1日~4月24日：-0.65%
 4月25日： -0.85%</p>
-]]></content><link href="https://github.com/yuuko0623/life/issues/7" rel="alternate"/><category term="投资日记"/><published>2023-04-25T17:00:05+00:00</published></entry><entry><id>https://github.com/yuuko0623/life/issues/6</id><title>友情链接</title><updated>2023-04-26T10:28:23.071975+00:00</updated><content type="html"><![CDATA[<p>这个 Issue 是友情链接的 Issue, 如果你想加到友情链接里，请在这条 Issue 上评论，我打心后会自动加到友情链接里。感谢大家。</p>
+]]></content><link href="https://github.com/yuuko0623/valueinvestment/issues/7" rel="alternate"/><category term="投资日记"/><published>2023-04-25T17:00:05+00:00</published></entry><entry><id>https://github.com/yuuko0623/valueinvestment/issues/6</id><title>友情链接</title><updated>2023-04-26T10:31:09.697089+00:00</updated><content type="html"><![CDATA[<p>这个 Issue 是友情链接的 Issue, 如果你想加到友情链接里，请在这条 Issue 上评论，我打心后会自动加到友情链接里。感谢大家。</p>
 <p>格式如下（请参考我下面的 comment）:
 冒号为中文冒号 ：</p>
 <p>名字：xxxxxx
 链接：xxxxxx
 描述：xxxxxx</p>
-]]></content><link href="https://github.com/yuuko0623/life/issues/6" rel="alternate"/><category term="Friends"/><published>2023-04-25T16:42:34+00:00</published></entry></feed>
+]]></content><link href="https://github.com/yuuko0623/valueinvestment/issues/6" rel="alternate"/><category term="Friends"/><published>2023-04-25T16:42:34+00:00</published></entry></feed>
