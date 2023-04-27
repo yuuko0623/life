@@ -10,11 +10,8 @@
 - [鹏鼎控股基本面分析](https://github.com/yuuko0623/valueinvestment/issues/11)--2023-04-26
 - [记一次错误的投资](https://github.com/yuuko0623/valueinvestment/issues/9)--2023-04-26
 - [观察中的企业标的池](https://github.com/yuuko0623/valueinvestment/issues/8)--2023-04-25
-- [损益变化表](https://github.com/yuuko0623/valueinvestment/issues/7)--2023-04-25
 - [友情链接](https://github.com/yuuko0623/valueinvestment/issues/6)--2023-04-25
 ## 2023
 - [鹏鼎控股基本面分析](https://github.com/yuuko0623/valueinvestment/issues/11)--2023-04-26
 - [记一次错误的投资](https://github.com/yuuko0623/valueinvestment/issues/9)--2023-04-26
 - [观察中的企业标的池](https://github.com/yuuko0623/valueinvestment/issues/8)--2023-04-25
-## 投资日记
-- [损益变化表](https://github.com/yuuko0623/valueinvestment/issues/7)--2023-04-25
